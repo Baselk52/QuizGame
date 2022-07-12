@@ -1,6 +1,6 @@
-# untitled24
+# Quizer
 
-A new Flutter project.
+A new Flutter Game with your friends.
 
 ## Getting Started
 
