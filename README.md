@@ -18,5 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # TO DO List: 📋
 1. Change The Score UI.
+2. Change The Wrong and Correct UI and the way it works.
 2. Fix Player names input and Change UI.
 3. Add More Questions.
